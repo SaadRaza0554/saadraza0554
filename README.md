@@ -1,123 +1,139 @@
 ## Hi there 👋
+
 # 👋 Hi, I'm Saad Raza
 
-💻 Curious developer | 🐧 Linux enthusiast | 🔐 Cybersecurity learner  
+💻 Curious developer | 🐧 Linux enthusiast | 🔐 Cybersecurity learner
 
-Welcome to my GitHub profile!  
-I enjoy exploring how computers, operating systems, and software actually work behind the scenes.
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **Python**
-- 🌐 Interested in **Full-Stack Web Development**
-- 🐧 Exploring **Linux systems and operating system internals**
-- 📱 Curious about **Android architecture and Linux-based systems**
-- 🔐 Learning about **cybersecurity concepts and hacker mindset**
-- 🧠 I like understanding **how things work technically, not just using them**
+Welcome to my GitHub profile!
+I enjoy exploring how computers, operating systems, and software work behind the scenes.
 
 ---
 
-## 🧰 Technologies & Tools
+# 🚀 About Me
+
+* 🌱 Currently learning **Python**
+* 🌐 Interested in **Full-Stack Web Development**
+* 🐧 Exploring **Linux systems and operating system internals**
+* 📱 Curious about **Android architecture and Linux-based systems**
+* 🔐 Learning **cybersecurity concepts and hacker mindset**
+* 🧠 I enjoy understanding **how systems actually work**
+
+---
+
+# 📊 GitHub Statistics
+
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+
+---
+
+# 🧰 Technologies & Tools
 
 ### Programming
-- Python 
-- HTML
-- CSS
-- js
-- java(ongoing)
+
+* Python
+* JavaScript
+* Java
+* C
+* C++
+* C#
+
+### Web Development
+
+* HTML
+* CSS
+
+### Frameworks
+
+* .NET
+
+### Automation
+
+* PowerShell
+* Windows Automation
 
 ### Operating Systems
-- Linux
-- Windows
-- Android
 
-### Areas I Explore
-- Operating system architecture
-- Android filesystem & internals
-- Linux command line
-- Virtualization
-- Cybersecurity concepts
-- System optimization
+* Linux
+* Windows
+* Android
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Tech Stack
 
-- Python programming
-- Linux system internals
-- Backend development
-- How operating systems are built
-- Security concepts used by hackers and developers
-- java programing as an andoride and windows developer
-- mysql
-- big data architecture (hadoop)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
----
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 
-## 🧪 Things I Like to Explore
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
-- Linux filesystem structure
-- Android OS architecture
-- How malware and viruses work (for learning security)
-- Game engines and how games are built
-- System performance and optimization
-- Developer tools and programming environments
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
-## 💡 Goals
-
-- Become a **skilled programmer**
-- Master **Python development**
-- Learn **full-stack web development**
-- Understand **operating systems deeply**
-- Explore **cybersecurity and ethical hacking**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 🖥️ Development Environment
+# 📚 Currently Learning
 
-Typical tools I like working with:
-
-- Linux-based systems
-- Terminal / command line tools
-- Lightweight development environments
-
----
-
-## 📈 GitHub Goals
-
-- Build useful projects
-- Share learning experiments
-- Document technical discoveries
-- Improve programming skills
-
----
-## 🚀 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* Python development
+* Linux system internals
+* Backend development
+* Operating system architecture
+* Cybersecurity concepts
+* Java for Android and Windows development
+* MySQL
+* Big Data (Hadoop)
 
 ---
 
-### 🧠 Currently Learning
+# 🧪 Things I Like to Explore
 
-![Python](https://img.shields.io/badge/Python_Development-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_System-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C2C2C?style=for-the-badge&logo=hackthebox&logoColor=green)
-![Web Development](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)
+* Linux filesystem structure
+* Android OS architecture
+* Malware and security research
+* Game engines and game development
+* System performance optimization
+* Developer tools and environments
+
 ---
 
-## 📫 Connect With Me
+# 💡 Goals
+
+* Become a **skilled programmer**
+* Master **Python**
+* Learn **full-stack development**
+* Understand **operating systems deeply**
+* Explore **cybersecurity and ethical hacking**
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
+
+# 📫 Connect With Me
 
 Currently focused on learning and building projects.
 
 ---
 
-⭐ *Always curious about how technology works under the hood.*
+⭐ Always curious about **how technology works under the hood**
