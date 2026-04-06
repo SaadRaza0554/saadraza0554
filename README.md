@@ -126,7 +126,7 @@ I enjoy exploring how computers, operating systems, and software work behind the
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/saadraza0554/saadraza0554/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/saadraza0554/saadraza0554/blob/output/sanack.yml)
 
 
 
