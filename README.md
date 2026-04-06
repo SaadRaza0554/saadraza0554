@@ -22,13 +22,13 @@ I enjoy exploring how computers, operating systems, and software work behind the
 
 # 📊 GitHub Statistics
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadraza0554\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadraza0554\&layout=compact\&theme=tokyonight)
 
 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=saadraza0554\&theme=tokyonight)
 
 ---
 
@@ -126,7 +126,7 @@ I enjoy exploring how computers, operating systems, and software work behind the
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/saadraza0554/saadraza0554/blob/output/github-contribution-grid-snake.svg)
 
 
 
