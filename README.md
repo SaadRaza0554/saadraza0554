@@ -1,16 +1,101 @@
 ## Hi there 👋
+# 👋 Hi, I'm Saad Raza
 
-<!--
-**SaadRaza0554/saadraza0554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Curious developer | 🐧 Linux enthusiast | 🔐 Cybersecurity learner  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I enjoy exploring how computers, operating systems, and software actually work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Python (from beginner to advanced)**
+- 🌐 Interested in **Full-Stack Web Development**
+- 🐧 Exploring **Linux systems and operating system internals**
+- 📱 Curious about **Android architecture and Linux-based systems**
+- 🔐 Learning about **cybersecurity concepts and hacker mindset**
+- 🧠 I like understanding **how things work technically, not just using them**
+
+---
+
+## 🧰 Technologies & Tools
+
+### Programming
+- Python (learning)
+- HTML
+- CSS
+
+### Operating Systems
+- Linux
+- Windows
+- Android (Linux-based)
+
+### Areas I Explore
+- Operating system architecture
+- Android filesystem & internals
+- Linux command line
+- Virtualization
+- Cybersecurity concepts
+- System optimization
+
+---
+
+## 📚 Currently Learning
+
+- Python programming
+- Linux system internals
+- Backend development
+- How operating systems are built
+- Security concepts used by hackers and developers
+
+---
+
+## 🧪 Things I Like to Explore
+
+- Linux filesystem structure
+- Android OS architecture
+- How malware and viruses work (for learning security)
+- Game engines and how games are built
+- System performance and optimization
+- Developer tools and programming environments
+
+---
+
+## 💡 Goals
+
+- Become a **skilled programmer**
+- Master **Python development**
+- Learn **full-stack web development**
+- Understand **operating systems deeply**
+- Explore **cybersecurity and ethical hacking**
+
+---
+
+## 🖥️ Development Environment
+
+Typical tools I like working with:
+
+- Linux-based systems
+- Developer laptops (ThinkPad style machines)
+- Terminal / command line tools
+- Lightweight development environments
+
+---
+
+## 📈 GitHub Goals
+
+- Build useful projects
+- Share learning experiments
+- Document technical discoveries
+- Improve programming skills
+
+---
+
+## 📫 Connect With Me
+
+Currently focused on learning and building projects.
+
+---
+
+⭐ *Always curious about how technology works under the hood.*
