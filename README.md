@@ -22,7 +22,7 @@ I enjoy exploring how computers, operating systems, and software work behind the
 
 # 📊 GitHub Statistics
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadraza0554\&show_icons=true\&theme=tokyonight)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadraza0554\)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadraza0554\&layout=compact\&theme=tokyonight)
 
