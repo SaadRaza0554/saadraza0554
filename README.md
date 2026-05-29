@@ -133,6 +133,8 @@ I enjoy exploring how computers, operating systems, and software work behind the
 # 📫 Connect With Me
 
 Currently focused on learning and building projects.
+**phone no:**
+* +92 3111377558
 
 ---
 
