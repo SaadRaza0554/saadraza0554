@@ -128,11 +128,15 @@ I enjoy exploring how computers, operating systems, and software work behind the
 
 ![Snake animation]([https://github.com/SaadRaza0554/SaadRaza0554/blob/main/output/snack.svg])
 
+---
 
-
-# 📫 Connect With Me
+# current focus
 
 Currently focused on learning and building projects.
+
+---
+# 📫 Connect With Me
+
 **phone no:**
 * +92 3111377558
 
